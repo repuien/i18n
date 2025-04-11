@@ -1,15 +1,15 @@
 {
-  "enter_amount": "Enter amount",
-  "or": "or",
-  "enter_pulls": "Enter pulls",
-  "count_pulls": "{count} pulls",
-  "count_tokens": "{count} tokens",
-  "count_pulls_tokens": "{countPulls} pulls ({countTokens} tokens)",
-  "count_tokens_pulls": "{countTokens} tokens ({countPulls} pulls)",
-  "double": "Double",
-  "one_time_only": "One-Time Only",
-  "already_purchased": "Already Purchased",
-  "credit_token": "Credit Token",
-  "bonus_2x": "Bonus 2x",
-  "price": "Price"
+  "enter_amount": "수치를 입력해 주세요",
+  "or": "또는",
+  "enter_pulls": "뽑기 횟수를 입력해 주세요",
+  "count_pulls": "{count} 회 뽑기",
+  "count_tokens": "{count} 크레딧",
+  "count_pulls_tokens": "{countPulls} 회 뽑기 ({countTokens} 크레딧)",
+  "count_tokens_pulls": "{countTokens} 크레딧 ({countPulls} 회 뽑기)",
+  "double": "중복",
+  "one_time_only": "일회성",
+  "already_purchased": "이미 구매함",
+  "credit_token": "크레딧 토큰",
+  "bonus_2x": "보너스 2x",
+  "price": "가격"
 }
